@@ -1,7 +1,7 @@
 
 React and ES6 - Part 4, React Mixins when using ES6 and React
 
-Link to blog post - [React and ES6 - Part 4, React Mixins when using ES6 and React](http://egorsmirnov.me/2015/09/30/react-and-es6-part4.html).
+Link to blog post - [React and ES6 - Part 4, React Mixins when using ES6 and React](http://yiqizhongchuang.cn/react-and-es6-part-4-react-mixins-when-using-es6-and-react).
 
 ## How to install
 
